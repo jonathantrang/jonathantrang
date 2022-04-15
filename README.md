@@ -28,17 +28,37 @@ My name is Jonathan Trang, a full stack software engineer. I have a passion for 
 <h2>🤩 My Hobbies</h2>
 <ul>
   <li>🎮 Playing video games</li>
-  <li><a href="https://soundcloud.com/hotel-saigon">🎛️ DJing</a></li>
+  <li>
+    <a href="https://soundcloud.com/hotel-saigon">
+      🎛️ DJing
+    </a>
+  </li>
   <li>📈 Looking up stonks</li>
   <li>🏋️‍♂️ Powerlifting</li>
-  <li><a href="https://www.youtube.com/playlist?list=PL7B5U63wY7mspXOQ4ngNYSNkSRESjFkRL">🏐 Volleyball</a></li>
+  <li>
+    <a href="https://www.youtube.com/playlist?list=PL7B5U63wY7mspXOQ4ngNYSNkSRESjFkRL">
+      🏐 Volleyball
+    </a>
+  </li>
   <li>👨‍🍳 Cooking</li>
 </ul>
 
 <h2>Contact Me</h2>
-<div><a href="https://www.linkedin.com/in/jttrang/">LinkedIn</a></div>
-<div><a href="jonathantrang.js@gmail.com">E-Mail</a></div>
-<div><a href="https://twitter.com/2trangs_js">Twitter</div>
+<div>
+  <a href="jonathantrang.js@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+<div>
+  <a href="https://www.linkedin.com/in/jttrang/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+<div>
+  <a href="https://twitter.com/2trangs_js">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>    
+</div>
 
 <h2>Check out my stats! 👀</h2>
 
