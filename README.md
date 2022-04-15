@@ -62,4 +62,5 @@ My name is Jonathan Trang, a full stack software engineer. I have a passion for 
 
 <h2>Check out my stats! 👀</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathantrang)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathantrang&hide=stars,contribs&theme=dark)
+
