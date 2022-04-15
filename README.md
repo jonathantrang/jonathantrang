@@ -36,9 +36,9 @@ My name is Jonathan Trang, a full stack software engineer. I have a passion for 
 </ul>
 
 <h2>Contact Me</h2>
-<a href="https://www.linkedin.com/in/jttrang/">LinkedIn</a>
-<div>E-Mail: jonathantrang.js@gmail.com</div>
-<div>Twitter: @2trangs_js</div>
+<div><a href="https://www.linkedin.com/in/jttrang/">LinkedIn</a></div>
+<div><a href="jonathantrang.js@gmail.com">E-Mail</a></div>
+<div><a href="https://twitter.com/2trangs_js">Twitter</div>
 
 <h2>Check out my stats! 👀</h2>
 
