@@ -11,11 +11,11 @@ My name is Jonathan Trang, a full stack software engineer. I have a passion for 
 <p>Thus my transition into coding. A path where I can solve problems, challenge myself, and provide a product that users can enjoy. In order to continue on this path however I need to build the necessary skills. That is why I chose to attend a rigorous three month full immersion Web Development program offered by LearningFuze.</p>
 
 <h2>📚 My Skills</h2>
-<b>Tech Stack</b>
-<div>JavaScript(ES5/ES6), CSS3, HTML5, React, Node.js, PostgreSQL, Express</div>
-<b>Tools</b>
+<ul><b>Tech Stack</b></ul>
+<li>JavaScript(ES5/ES6), CSS3, HTML5, React, Node.js, PostgreSQL, Express</div>
+<ul><b>Tools</b></ul>
 <div> Git, Cmder, Docker, GitHub, VS Code, Figma, npm, Babel, webpack</div>
-<b>Methodologies</b>
+<ul><b>Methodologies</b></ul>
 <div>Mobile-First, Agile, Responsive Web Design, Web Accessibility, UX/UI Design</div>
 
 <h2>🧗 My Professional Goals</h2>
