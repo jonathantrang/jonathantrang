@@ -25,12 +25,12 @@ JavaScript | CSS3 | HTML5 | DOM | JSON | AJAX | Agile | OOP | Mobile-First | Res
 
 <h2>🤩 My Hobbies</h2>
 <ul>
-  <li>Playing video games</li>
-  <li>DJing</li>
-  <li>Looking up stonks</li>
-  <li>Powerlifting</li>
-  <li>Volleyball</li>
-  <li>Cooking</li>
+  <li>🎮 Playing video games</li>
+  <li>🎛️ DJing</li>
+  <li>📈 Looking up stonks</li>
+  <li>🏋️‍♂️ Powerlifting</li>
+  <li>🏐 Volleyball</li>
+  <li>👨‍🍳 Cooking</li>
 </ul>
 
 <h2>Contact Me</h2>
