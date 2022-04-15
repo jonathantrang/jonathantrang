@@ -28,10 +28,10 @@ My name is Jonathan Trang, a full stack software engineer. I have a passion for 
 <h2>🤩 My Hobbies</h2>
 <ul>
   <li>🎮 Playing video games</li>
-  <li>🎛️ DJing</li>
+  <li><a href="https://soundcloud.com/hotel-saigon">🎛️ DJing</a></li>
   <li>📈 Looking up stonks</li>
   <li>🏋️‍♂️ Powerlifting</li>
-  <li>🏐 Volleyball</li>
+  <li><a href="https://www.youtube.com/playlist?list=PL7B5U63wY7mspXOQ4ngNYSNkSRESjFkRL">🏐 Volleyball</a></li>
   <li>👨‍🍳 Cooking</li>
 </ul>
 
