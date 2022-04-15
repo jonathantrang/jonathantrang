@@ -6,9 +6,7 @@ You can click the Preview link to take a look at your changes.
 My name is Jonathan Trang, a full stack software engineer. I have a passion for user-centered design and because of that I continuously curate my code in a way of answering, "How does this benefit the user?"
 
 <h2>😃 About Me!</h2>
-<p>After graduating from Cal Poly Pomona I went into the hospitality industry, as a Project Coordinator for the purchasing/contracts department of TriMark. During this time I built my knowledge in the corporate setting by meeting monthly, quarterly, and yearly deadlines, communicating with clients/teammates, and completing projects with multiple teams. Although I enjoyed the knowledge that TriMark had provided to me I realized that I had another calling.</p>
-
-<p>Thus my transition into coding. A path where I can solve problems, challenge myself, and provide a product that users can enjoy. In order to continue on this path however I need to build the necessary skills. That is why I chose to attend a rigorous three month full immersion Web Development program offered by LearningFuze.</p>
+<p>A former hospitality whiz turned Full-Stack Software Engineer and recent LearningFuze Graduate looking to fuel my passion and curiosity for the tech industry through developing full stack applications to simplify the lives of others.</p>
 
 <h2>📚 My Skills</h2>
 <b>Tech Stack</b>
