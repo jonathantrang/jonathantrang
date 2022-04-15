@@ -7,12 +7,9 @@ You can click the Preview link to take a look at your changes.
 <p>As a former hospitality whiz turned Full-Stack Software Engineer and recent LearningFuze Graduate I am looking to fuel my passion and curiosity for the tech industry through the development of full stack applications in order to simplify the lives of others.</p>
 
 <h2>📚 My Skills</h2>
-<b>Tech Stack</b>
-<li>JavaScript(ES5/ES6), CSS3, HTML5, React, Node.js, PostgreSQL, Express</li>
-<b>Tools</b>
-<li> Git, Cmder, Docker, GitHub, VS Code, Figma, npm, Babel, webpack</li>
-<b>Methodologies</b>
-<li>Mobile-First, Agile, Responsive Web Design, Web Accessibility, UX/UI Design</li>
+<div><b>Tech Stack: </b>JavaScript(ES5/ES6), CSS3, HTML5, React, Node.js, PostgreSQL, Express</div>
+<div><b>Tools: </b>Git, Cmder, Docker, GitHub, VS Code, Figma, npm, Babel, webpack</div>
+<div><b>Methodologies: </b>Mobile-First, Agile, Responsive Web Design, Web Accessibility, UX/UI Design</div>
 
 <h2>🧗 My Professional Goals</h2>
 <ul>
