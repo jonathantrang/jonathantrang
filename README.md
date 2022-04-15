@@ -12,11 +12,11 @@ My name is Jonathan Trang, a full stack software engineer. I have a passion for 
 
 <h2>📚 My Skills</h2>
 <ul><b>Tech Stack</b></ul>
-<li>JavaScript(ES5/ES6), CSS3, HTML5, React, Node.js, PostgreSQL, Express</div>
+<li>JavaScript(ES5/ES6), CSS3, HTML5, React, Node.js, PostgreSQL, Express</li>
 <ul><b>Tools</b></ul>
-<div> Git, Cmder, Docker, GitHub, VS Code, Figma, npm, Babel, webpack</div>
+<li> Git, Cmder, Docker, GitHub, VS Code, Figma, npm, Babel, webpack</li>
 <ul><b>Methodologies</b></ul>
-<div>Mobile-First, Agile, Responsive Web Design, Web Accessibility, UX/UI Design</div>
+<li>Mobile-First, Agile, Responsive Web Design, Web Accessibility, UX/UI Design</li>
 
 <h2>🧗 My Professional Goals</h2>
 <ul>
