@@ -34,7 +34,7 @@ JavaScript | CSS3 | HTML5 | DOM | JSON | AJAX | Agile | OOP | Mobile-First | Res
 </ul>
 
 <h2>Contact Me</h2>
-<div href=https://www.linkedin.com/in/jttrang/>LinkedIn</div>
+<a href="https://www.linkedin.com/in/jttrang/">LinkedIn</a>
 <div>E-Mail: jonathantrang.js@gmail.com</div>
 <div>Twitter: @2trangs_js</div>
 
