@@ -3,10 +3,10 @@ jonathantrang/jonathantrang is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <h1>Greetings 👋</h1>
-My name is Jonathan Trang, a full stack software engineer. I have a passion for user-centered design and because of that I continuously curate my code in a way of answering, "How does this benefit the user?"
 
 <h2>😃 About Me!</h2>
-<p>A former hospitality whiz turned Full-Stack Software Engineer and recent LearningFuze Graduate looking to fuel my passion and curiosity for the tech industry through developing full stack applications to simplify the lives of others.</p>
+<p>My name is Jonathan Trang, a full stack software engineer. I have a passion for user-centered design and because of that I continuously curate my code in a way of answering, "How does this benefit the user?".</p>
+<p>As a former hospitality whiz turned Full-Stack Software Engineer and recent LearningFuze Graduate I am looking to fuel my passion and curiosity for the tech industry through the development of full stack applications in order to simplify the lives of others.</p>
 
 <h2>📚 My Skills</h2>
 <b>Tech Stack</b>
