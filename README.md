@@ -21,23 +21,18 @@ You can click the Preview link to take a look at your changes.
 <h2>🤩 My Hobbies</h2>
 <ul>
   <li>
-    🎮 Playing video games
-  </li>
-  <li>
     <a href="https://soundcloud.com/hotel-saigon">
       🎛️ DJing
     </a>
   </li>
   <li>
-    🏋️‍♂️ Powerlifting
+    <a href="https://www.instagram.com/tu_plates/">
+      🏋️‍♂️ Powerlifting
   </li>
   <li>
     <a href="https://www.youtube.com/playlist?list=PL7B5U63wY7mspXOQ4ngNYSNkSRESjFkRL">
       🏐 Volleyball
     </a>
-  </li>
-  <li>
-    👨‍🍳 Cooking
   </li>
 </ul>
 
