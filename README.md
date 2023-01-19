@@ -35,13 +35,6 @@ You can click the Preview link to take a look at your changes.
   </li>
 </ul>
 
-<h2>🎧 Listening</h2>
-<div>
-   <a href="https://open.spotify.com/user/2trangs" rel="nofollow">
-   <img src="https://camo.githubusercontent.com/2e8029622208d25f31080c672a159d4dafaac9837c65fdf3fa4eab8ff4bd5a9b/68747470733a2f2f73706f746966792d706c6179696e672d657567656e657061726b3231352e76657263656c2e6170702f6170692f73706f74696679" alt="Spotify" data-canonical-src="https://spotify-playing-2trangs.vercel.app/api/spotify" style="max-width: 100%;">
-  </a>
-</div>
-
 <h2>Contact Me</h2>
 <div>
   <a href="jonathantrang.js@gmail.com">
